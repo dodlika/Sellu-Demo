@@ -1,0 +1,21 @@
+
+
+body {
+    margin: 0 ;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    box-sizing: border-box;
+    }
+canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    height: -webkit-fill-available;
+    touch-action: none;
+}
+
