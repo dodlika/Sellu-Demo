@@ -118,16 +118,16 @@
       horizontalVariation: 1.0,
       speeds: {
         firstFloating: {
-          min: 15,
-          max: 20,
+          min: 8,
+          max: 10,
         },
         acceleration: {
-          min: 30, // Faster during acceleration
-          max: 40,
+          min: 14,
+          max: 16,
         },
         secondFloating: {
-          min: 90,
-          max: 95,
+          min: 18,
+          max: 20,
         },
       },
     },
